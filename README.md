@@ -1,0 +1,1 @@
+A simple javascript project. Stone paper scissor
